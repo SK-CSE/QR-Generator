@@ -1,7 +1,8 @@
 # QR-Generator
-This app will generate QR image when input is enter through CMD.
+This app will generate QR Code image when input is enter through CMD.
+This app is build in Node JS.
 
-Steps : 
+Steps to generate QR Code : 
 
 1. Install Node JS in your System.
 
@@ -12,7 +13,7 @@ Steps :
 4. enter the command :
 
 
-node qr "write anything " "randomName.png"
+   node qr "write anything " "randomName.png"
 
 
 
