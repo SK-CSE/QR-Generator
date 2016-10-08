@@ -10,6 +10,11 @@ Steps :
 3. open cmd and go inside the directory in which code reside.
 
 4.enter the command : 
+
+
 node qr "write anything " "randomName.png"
+
+
+
 
 
